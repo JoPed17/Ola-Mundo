@@ -1,4 +1,4 @@
 # Olá, Mundo!
  Primeiro repositório versionado
 
- Repositório do curso de GIT e GITHUB do Guanabara
+ Repositório do curso de GIT e GITHUB
