@@ -1,5 +1,5 @@
 body{
-    background-color: rgb(44, 43, 43);
+    background-color: rgb(10, 10, 10);
     font-family: 'Times New Roman', Times, serif;
     font-size: xx-large;
     white-space: nowrap;
@@ -21,6 +21,4 @@ cor{
 
 h2{
     text-align: center;
-    size: 20px;
-    
-{
+}
